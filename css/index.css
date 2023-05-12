@@ -1,0 +1,84 @@
+.bg-header{
+    background: linear-gradient(-180deg,#f53d2d,#f63);
+    transition: transform .2s cubic-bezier(.4,0,.2,1);
+}
+
+.icon-shopee-logo {
+
+    fill: #fff;
+}
+
+.banner-right-ads img {
+    width: 100%;
+    height: 275px;
+    object-fit: cover;
+}
+
+.rightads img{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    
+}
+
+.color-second-background  {
+    background-color: #f5f5f5;
+}
+
+.color-white-background{
+    background-color: #fff;
+}
+
+.card .card-body .card-text{
+    font-weight: 700;
+    color: #ee4d2d;
+}
+
+.card img{
+    height: 300px;
+    object-fit: cover;
+}
+
+.card .card-title {
+    height: 39px;
+}
+
+.card {
+    border-color: #fff !important;
+}
+
+.link-card{
+    text-decoration: none;
+}
+
+.link-card:hover .card{
+    border: 1px solid #ee4d2d !important;
+}
+
+
+
+.color-special-text{
+    color: #ee4d2d !important;
+}
+
+.page-item a.page-link{
+    color: #ee4d2d;
+}
+
+.banner-product{
+    border-bottom: 3px solid #ee4d2d;
+}
+
+.category img{
+    object-fit: contain;
+    width: 100%;
+    height: 90px;
+}
+
+.category {
+    border: 1px solid #f5f5f5;
+}
+
+.category:hover{
+    border-color: #ee4d2d;
+}
